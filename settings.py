@@ -7,7 +7,7 @@ valid_phone = "+79069978898"
 invalid_phone = "+79324875355"
 invalid_phone2 = "+7"
 
-valid_pass = "Ups141516"
+valid_pass = "U445s141516"
 valid_pass2 = 'Validpassword1!'
 invalid_pass = "password1!"
 invalid_pass2 = "1442345678944012345678901"
