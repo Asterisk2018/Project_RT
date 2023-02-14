@@ -1,9 +1,9 @@
 # регистрационные данные для автотестов
 
-valid_email = "nela13@yandex.ru"
+valid_email = "111113@yandex.ru"
 invalid_email = "$$@$@@ya.ru"
 
-valid_phone = "+79062695684"
+valid_phone = "+79069978898"
 invalid_phone = "+79324875355"
 invalid_phone2 = "+7"
 
@@ -21,7 +21,7 @@ my_login = "Chester"
 personal_account = '124546868979'
 
 
-valid_name = "Анастасия"
+valid_name = "Кристина"
 invalid_name = "А"
 invalid_name2 = "ОченьбольшоезначениеимениОченьбольшоезначениеимени"
 
